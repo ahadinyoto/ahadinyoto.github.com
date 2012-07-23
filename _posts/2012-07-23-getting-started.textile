@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Getting Started"
+description: "Desc Here"
+tags: [common]
+category: common
+---
+{% include JB/setup %}
+
+h2. Getting started
+
+Finally got this Jekyll blog setup and uploaded to Github. 
+
+Anyway if you happen to read this and keen to try Jekyll, you can check the following sites: <a href="https://github.com/mojombo/jekyll/">Jekyll</a> and <a href="http://jekyllbootstrap.com/">Jekyll bootstrap</a>.
