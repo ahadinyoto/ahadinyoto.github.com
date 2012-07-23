@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Andrew's Blog
+title : "Andrew's Blog"
 # tagline: Parenting, coding, and anything in between
 author :
   name : Andrew Hadinyoto
